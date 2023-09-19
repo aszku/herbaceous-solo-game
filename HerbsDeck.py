@@ -1,6 +1,7 @@
 #-------------------------------------------------------------------------------
 # Name:        Herbaceous deck for solo play
-# Purpose:     preparing classes and functions to use during a solo digital play of card game called "Herbaceous"
+# Purpose:     preparing classes and functions to use during a solo digital play
+#              of a card game called "Herbaceous"
 #              later to be used in game module
 # Author:      aszku
 # Created:     VII 2023 - ?
